@@ -1,0 +1,52 @@
+.bg-blue{
+    background-color: #eeeeee;
+}
+.img-navbar{
+    width: 20%;
+    height: 100%;
+}
+
+#features {
+    padding: 10px 15px;
+    background-color: #ffffff;
+    position: relative;
+}
+
+.feature-box {
+    text-align: center;
+    padding: 4.5%;
+}
+
+.icon {
+    color: lawngreen;
+}
+
+.feature-box{
+    text-align: center;
+    padding: 4.5%;
+}
+
+#carousel {
+    padding: 5% 15%;
+}
+
+.carousel {
+    padding: 5% 15%;
+    background-color: #213e3b;
+}
+
+.carousel-img {
+    width: 30%;
+    border-radius: 50%;
+    justify-content: center;
+}
+
+.text-light{
+    text-align: justify;
+    font-size: 20px;
+}
+
+.footer{
+    padding: 3%;
+    text-align: center;
+}
